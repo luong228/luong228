@@ -8,7 +8,7 @@
 
 
 ### A little about me...  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
-I'm an **Undergrad Student🎓 [@UIT UNIVERSITY](https://www.uit.edu.vn)** pursuing CSE. I'm a **Tech Enthusiast 💻 😃** passionate about learning and working with new tech. I love building interesting and amazing products that serve a great deal of purpose. <br/><br/>
+I'm an **Undergrad Student🎓 [@UIT UNIVERSITY](https://www.uit.edu.vn)** pursuing BE Developer. I'm a **Tech Enthusiast 💻 😃** passionate about learning and working with new tech. I love building interesting and amazing products that serve a great deal of purpose. <br/><br/>
 
 
 
@@ -46,6 +46,9 @@ I'm an **Undergrad Student🎓 [@UIT UNIVERSITY](https://www.uit.edu.vn)** pursu
 <code><img height="30" src="https://raw.githubusercontent.com/luong228/luong228/45f97f7a8765f9ee924f0f79f3be2721c0fa9c01/github.svg"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/luong228/luong228/45f97f7a8765f9ee924f0f79f3be2721c0fa9c01/gitkraken.svg"></code>
 
+if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
+
+<a href="https://www.buymeacoffee.com/luonghc228" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
 ### 🚀 Quick Stats
 <p align="center">
