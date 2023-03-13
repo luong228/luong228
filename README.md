@@ -6,7 +6,7 @@
 [![Stackoverflow Badge](https://img.shields.io/badge/-Stack%20overflow-FE7A16?style=flat-square&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/21119166/anhluong059)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:luong228@gmail.com)
 
-
+![Profile views](https://gpvc.arturio.dev/luong228) 
 ### A little about me...  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
 I'm an **Undergrad Student🎓 [@UIT UNIVERSITY](https://www.uit.edu.vn)** pursuing BE Developer. I'm a **Tech Enthusiast 💻 😃** passionate about learning and working with new tech. I love building interesting and amazing products that serve a great deal of purpose. <br/><br/>
 
@@ -45,8 +45,7 @@ I'm an **Undergrad Student🎓 [@UIT UNIVERSITY](https://www.uit.edu.vn)** pursu
 
 If you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
-<a href="https://www.buymeacoffee.com/luonghc228" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
-![Profile views](https://gpvc.arturio.dev/luong228)  
+<a href="https://www.buymeacoffee.com/luonghc228" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a> 
 ### 🚀 Quick Stats
 <p align="center">
 <img width="450" align="left" src="https://github-readme-stats-defcon27.vercel.app/api?username=luong228&show_icons=true&line_height=21&theme=react" alt="Luong228's Github Stats" />
