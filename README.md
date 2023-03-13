@@ -43,11 +43,12 @@ I'm an **Undergrad Student🎓 [@UIT UNIVERSITY](https://www.uit.edu.vn)** pursu
 <code><img height="30" src="https://raw.githubusercontent.com/luong228/luong228/45f97f7a8765f9ee924f0f79f3be2721c0fa9c01/gitkraken.svg"></code>
 
 If you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
+![Profile views](https://gpvc.arturio.dev/luong228)
 
 <a href="https://www.buymeacoffee.com/luonghc228" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a> 
 ### 🚀 Quick Stats
 <p align="center">
 <img width="450" align="left" src="https://github-readme-stats-defcon27.vercel.app/api?username=luong228&show_icons=true&line_height=21&theme=react" alt="Luong228's Github Stats" />
 </p>
-![Profile views](https://gpvc.arturio.dev/luong228)  
+  
 
